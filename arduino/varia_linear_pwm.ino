@@ -18,7 +18,7 @@ void setup() {
   pulsos = 0;
   rpm = 0;
   timeold = millis();               // Inicializa o tempo
-  analogWrite(pino_pwm, 200);  // Define o PWM inicial
+  analogWrite(pino_pwm, 140);  // Define o PWM inicial
 }
 
 void loop() {
