@@ -33,4 +33,4 @@ As abordagens de variação linear e aleatória de PWM são visualizadas com gr�
 
 ## Referência
 
-Baseado no relatório do projeto desenvolvido no curso de Controle I da Universidade Federal da Paraíba.
+Baseado no slide, sobre o projeto do motor CC, apresentado e desenvolvido no curso de Controle I da Universidade Federal da Paraíba.
